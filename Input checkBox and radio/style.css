@@ -1,0 +1,42 @@
+#submitbtn
+{
+    font-size: 2em;
+    color: aqua;
+    border-radius: 0.3em;
+    background-color: hsl(220, 6%, 20%)
+}
+#submitbtn:hover
+{
+    background-color: hsl(0, 0%, 3%)
+}
+#p
+{
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight: 200;
+}
+#h1
+{
+    font-size: 4em;
+    color: aqua;
+}
+.label
+{
+    font-size: 2em;
+}
+#box
+{
+    color: aquamarine;
+}
+#box:hover
+{
+    color: rgb(4, 136, 92);
+}
+.label:hover
+{
+    color: bisque;
+}
+.misc
+{
+    font-size: 1.8em;
+}

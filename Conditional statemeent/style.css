@@ -1,0 +1,47 @@
+#h1
+{
+    font-size: 4em;
+    text-align: center;
+    color: aqua;
+    text-shadow: 5cm;
+
+}
+#p
+{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-style: normal;
+}
+#data
+{
+    width: 50em;
+    font-size: 1em;
+    margin: 1em;
+    color: white;
+    padding: 0.5em;
+    border: 2px solid rgb(134, 131, 131);
+    background-color: rgb(31, 32, 32);
+    border-radius: 0.5em;
+    position: relative;
+    left: 30%;
+}
+#submitbtn
+{
+    font-size: 1.5em;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    border-radius: 0.3em;
+    background-color: hsl(156, 5%, 18%);
+}
+
+#mytest
+{
+    text-align: center;
+    font-size: 5em;
+    position: relative;
+    left: 10%;
+}
+
