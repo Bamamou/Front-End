@@ -1,0 +1,50 @@
+#container
+{
+    align-content: center;
+    text-align: center;
+
+}
+
+
+#btn {
+    font-size: 2rem;
+    border: 0.5rem;
+    color: white;
+    background-color: hsl(214, 95%, 40%);
+    border-radius: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    cursor: pointer;
+    
+}
+#btn:hover{
+    background-color: hsl(240, 43%, 34%);
+}
+#die
+{
+    width: 150px;
+    padding: 0.1rem;
+    font-size: 1.5rem;
+   border-color: aqua;
+   border-radius: 0.6rem;
+   text-align: center;
+
+
+}
+#btn:active
+{
+    background-color: hsl(240, 9%, 16%);
+}
+#label
+{
+    font-size: 2rem;
+}
+#faces
+{
+    font-size: 1.5rem;
+}
+#imgs img
+{
+    width: 150px;
+    margin: 5px;
+}
